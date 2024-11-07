@@ -1,5 +1,5 @@
-# SQL RFM-Analysis-on-E-Commerce-Data
-RFM Analysis with E-Commerce Data Using PostgreSQL Resources
+# RFM-Analysis-on-E-Commerce-Data
+RFM Analysis with SQL on E-Commerce Data
 
 # RFM Analysis on E-Commerce Data
 
