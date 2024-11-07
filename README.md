@@ -50,6 +50,12 @@ Based on the RFM scores, customers are segmented into categories widely recogniz
 - **Hibernating**: Customers with very low engagement and spending, likely inactive.
 - **Can’t Lose**: Valuable customers who may be on the verge of disengagement.
 
+## RFM Segment Distribution
+
+The chart below illustrates the distribution of customers across different RFM segments based on their purchasing behavior.
+
+![RFM Segment Chart](https://github.com/eatasal/RFM-Analysis-on-E-Commerce-Data/blob/main/RFM_Chart.png)
+
 ### Analysis Insights
 
 - **Hibernating**: The largest segment, suggesting many customers have become inactive. This group represents a re-engagement opportunity, perhaps through targeted campaigns or special offers to encourage them to return.
